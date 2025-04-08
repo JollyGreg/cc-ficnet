@@ -1,2 +1,2 @@
 # cc-filnet
-libary for filtering rednet messages based upon whitelist / blacklists
+ComputerCraft program for filtering rednet messages based upon whitelist / blacklists
